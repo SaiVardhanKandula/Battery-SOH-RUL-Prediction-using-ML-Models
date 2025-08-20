@@ -102,8 +102,8 @@ Code/
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/spkkarri/EE363.git
-cd EE363/25/08_209/code
+git clone https://github.com/SaiVardhanKandula/Battery-SOH-RUL-Prediction-using-ML-Models.git
+cd Battery-SOH-RUL-Prediction-using-ML-Models/code
 
 ```
 
@@ -112,7 +112,7 @@ cd EE363/25/08_209/code
 Make sure you are in the EE363/25/08_209/code directory:
 
 ```bash
-cd EE363/25/08_209/code
+cd Battery-SOH-RUL-Prediction-using-ML-Models/code
 pip install -r requirements.txt
 ```
 
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 Ensure you are in the EE363/25/08_209/code directory:
 
 ```bash
-cd EE363/25/08_209/code
+cd Battery-SOH-RUL-Prediction-using-ML-Models/code
 uvicorn backend.app:app --reload
 ```
 
@@ -130,7 +130,7 @@ uvicorn backend.app:app --reload
 Open a new terminal window, then navigate to the same directory before running Streamlit
 
 ```bash
-cd EE363/25/08_209/code
+cd Battery-SOH-RUL-Prediction-using-ML-Models/code
 streamlit run frontend/app.py
 ```
 
@@ -141,24 +141,6 @@ streamlit run frontend/app.py
 📺 **Watch Full Demo Here**  
 [Click to Watch](https://drive.google.com/file/d/1gV1t9g6L1Xxtr0DJl_hXtuaqaMzAO1sM/view?usp=drive_link)
 
----
-
-## 👨‍💻 Team Information
-
-- **Team No:** 8  
-- **Team Lead Roll Number (Last 3 Digits):** 209  
-- **Course:** EE363 – Machine Learning for Engineers
-
-**Team Members:**
-- `522209` – M.Ch.N.S.S.Rama Krishna  
-- `522142` – Kandula Sai Vardhan  
-- `522113` – B.S.V. Lokesh  
-- `522109` – B.Pavan Kumar  
-- `522147` – K.Mani Kumar Abhi  
-- `522139` – K.Bhargav Sasi Keerthan
-
-
----
 
 ## 🤝 Contributing
 - Open to feature suggestions, bug reports, or pull requests. Let’s build together!
